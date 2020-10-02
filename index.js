@@ -29,10 +29,10 @@ function divide (a, b) {
 var n = 859
 
 function increment() {
-  n+=
+  n+= 1
 }
 
 
 function decrement() {
-  n-=
+  n-= 1
 }
