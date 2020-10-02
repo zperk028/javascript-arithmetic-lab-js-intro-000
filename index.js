@@ -31,9 +31,9 @@ function increment(n) {
   n+= 1
 }
 
-increment(n) 
+increment(n)
 
-console.log(n) 
+console.log(n)
 
 function decrement(n) {
   n-= 1
