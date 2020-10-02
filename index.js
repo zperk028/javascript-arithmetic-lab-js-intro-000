@@ -26,12 +26,13 @@ function divide (a, b) {
   return a / b
 }
 
+var n = 859
 
-function increment(n) {
+function increment() {
   n+=
 }
 
 
-function decrement(n) {
+function decrement() {
   n-=
 }
