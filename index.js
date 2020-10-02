@@ -27,11 +27,11 @@ function divide (a, b) {
 }
 
 
-function increment() {
+function increment(n) {
   n+= 1
 }
 
 
-function decrement() {
+function decrement(n) {
   n-= 1
 }
